@@ -56,7 +56,5 @@ Add login authentication
 Add account number generation
 Add better security features
 
-Author
-Mahi Chawariya
 
 B.Com. (Computer Application)
