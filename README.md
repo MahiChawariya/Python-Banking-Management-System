@@ -58,6 +58,5 @@ Add better security features
 
 Author
 Mahi Chawariya
-B.Com. (Computer Application)
 
 B.Com. (Computer Application)
